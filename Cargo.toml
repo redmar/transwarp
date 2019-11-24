@@ -1,0 +1,15 @@
+[package]
+authors = ["Redmar Kerkhoff <redmar@creativecode.nl>"]
+license = "MIT"
+edition = "2018"
+name = "transwarp"
+version = "0.1.0"
+readme = "README.md"
+description = "Going beyond warp speed"
+homepage = "https://github.com/redmar/transwarp"
+repository = "https://github.com/redmar/transwarp"
+keywords = ["warp", "server", "http", "webframework"]
+categories = ["web-programming"]
+
+[dependencies]
+warp = "0.1.20"
